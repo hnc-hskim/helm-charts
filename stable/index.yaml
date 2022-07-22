@@ -8,6 +8,6 @@ entries:
     digest: a10033507979dc8f94087416482915a93e6ae7667965fb5d22ed72a8df829d9a
     name: sftp-server
     urls:
-    - https://hnc-hskim.github.io/helm-charts/sftp-server-0.3.2.tgz
+    - https://hnc-hskim.github.io/helm-charts/stable/sftp-server-0.3.2.tgz
     version: 0.3.2
 generated: "2022-07-22T12:39:18.675716+09:00"
