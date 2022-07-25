@@ -3,12 +3,12 @@ entries:
   code-server:
   - apiVersion: v2
     appVersion: 4.5.1
-    created: "2022-07-25T13:03:20.8706815+09:00"
+    created: "2022-07-25T13:09:35.2811003+09:00"
     description: A Helm chart for coder/code-server
-    digest: a6fe6f7d138aea2672db0d53294093a7ad8f38bc123e6b4f2aecf9ba8364413e
+    digest: 25b43a798820e3c32a4bfb2154ce86c912e10db10ee5629b99fa669b41170c5a
     name: code-server
     type: application
     urls:
     - code-server-3.0.2.tgz
     version: 3.0.2
-generated: "2022-07-25T13:03:20.8700878+09:00"
+generated: "2022-07-25T13:09:35.2804344+09:00"
